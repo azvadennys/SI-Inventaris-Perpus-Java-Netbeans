@@ -1,4 +1,4 @@
-# SI-Inventaris-Perpus-Java-Netbeans
+# SI Inventaris Buku Perpustakaan Java Netbeans
 Ini adalah project Tubes Proyek Struktur Data dan Algoritma\
 Dimana pada project ini saya membuat aplikasi berupa SI Inventaris Buku Perpustakaan\
 Untuk login dengan mengisi\
